@@ -1,6 +1,5 @@
 # Gestion de Produits — Application Web Spring Boot
 
-**Auteur :** Nihade Ouassekssou
 
 Application web de gestion de produits (CRUD, recherche et pagination) construite avec
 **Spring MVC**, **Spring Data JPA / Hibernate**, **Thymeleaf** et **Spring Security**.
